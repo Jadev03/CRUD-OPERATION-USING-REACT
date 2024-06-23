@@ -1,0 +1,11 @@
+ input,button{
+    margin: 20px;
+
+}
+form{
+    width:20rem;
+    height: 25rem;
+    background-color: blueviolet;
+    position:relative;
+    left:20px
+}
